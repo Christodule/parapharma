@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>256602362763-us6h6pkk8gpbtk4p4bq9mqv99609nkfj.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.256602362763-us6h6pkk8gpbtk4p4bq9mqv99609nkfj</string>
+	<key>ANDROID_CLIENT_ID</key>
+	<string>256602362763-fe5268aogvk4nnggrfk5iucpuevjbrfh.apps.googleusercontent.com</string>
+	<key>API_KEY</key>
+	<string>AIzaSyCIreE0UMJY0YGmPYrigFxkuZxslobwBYI</string>
+	<key>GCM_SENDER_ID</key>
+	<string>256602362763</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.parapharma.com</string>
+	<key>PROJECT_ID</key>
+	<string>parapharma-43e3f</string>
+	<key>STORAGE_BUCKET</key>
+	<string>parapharma-43e3f.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:256602362763:ios:69c8a19dcd4e8e994ad58e</string>
+	<key>DATABASE_URL</key>
+	<string>https://parapharma-43e3f-default-rtdb.firebaseio.com</string>
+</dict>
+</plist>

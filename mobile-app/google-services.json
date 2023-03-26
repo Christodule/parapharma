@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "256602362763",
+    "firebase_url": "https://parapharma-43e3f-default-rtdb.firebaseio.com",
+    "project_id": "parapharma-43e3f",
+    "storage_bucket": "parapharma-43e3f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:256602362763:android:2b112c72a0c6fe774ad58e",
+        "android_client_info": {
+          "package_name": "com.parapharma.com"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "256602362763-fe5268aogvk4nnggrfk5iucpuevjbrfh.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.parapharma.com",
+            "certificate_hash": "e3ba4deb770c0d2e672134b3ecb0294009d4a23b"
+          }
+        },
+        {
+          "client_id": "256602362763-1d2obdfuo3ktkibfol6reocq4lcreu55.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCIreE0UMJY0YGmPYrigFxkuZxslobwBYI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "256602362763-1d2obdfuo3ktkibfol6reocq4lcreu55.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "256602362763-us6h6pkk8gpbtk4p4bq9mqv99609nkfj.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.parapharma.com"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
